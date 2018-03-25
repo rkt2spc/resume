@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My personal resume built with my own custom jsonresume theme",
+  "author": "Tuan Nguyen <nmtuan.dev@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/rocketspacer/resume#readme",
+  "bugs": "https://github.com/rocketspacer/resume/issues",
+  "repository": "github:rocketspacer/jsonresume-theme-rocketspacer",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "start": "resume serve --theme rocketspacer --port ${PORT:-4000}",
+    "build": "resume export --theme rocketspacer public/index.html"
+  },
+  "dependencies": {
+    "jsonresume-theme-rocketspacer": "^1.0.7",
+    "resume-cli": "^0.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}
