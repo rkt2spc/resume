@@ -61,4 +61,4 @@ typings/
 package-lock.json
 
 # public folder house contents that will be built
-public
+public/
