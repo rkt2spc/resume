@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# package-lock.json this project should always use latest dependencies possible
+package-lock.json
+
+# public folder house contents that will be built
+public
