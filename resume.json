@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Tuan Nguyen",
+    "label": "Software Engineer, Backend Development",
+    "picture": "profile.jpg",
+    "email": "nmtuan.dev@gmail.com",
+    "phone": "(+84) 0934-018-329",
+    "website": "https://nmtuan.space",
+    "summary": "I'm a software engineer working mainly in the backend side of the spectrum. I enjoy learning and sharing new technologies. My current focus is on NodeJs and Golang development. I spend a lot of my free time contributing to the open source community. Checkout my GitHub and StackOverflow.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "rocketspacer",
+        "url": "https://github.com/rocketspacer"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "rocketspacer",
+        "url": "https://stackoverflow.com/users/4318281/rocketspacer"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Tuan Nguyen",
+        "url": "https://www.linkedin.com/in/mntuan"
+      },
+      {
+        "network": "Facebook",
+        "username": "Tuan Nguyen",
+        "url": "https://www.facebook.com/rocketspacer"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Misfit Wearables",
+      "position": "Software Engineer 2, Backend Development",
+      "website": "https://misfit.com",
+      "startDate": "2017-09-01",
+      "summary": "Misfit is a fast growing startup focused on wearable technologies, currently acquired by Fossil Group",
+      "highlights": [
+        "Building high availability, scalable core APIs architectured as microservices",
+        "Help re-design and re-build new authentication/authorization system",
+        "Upgrade and rewrite Open APIs for third-party developers complied with the OAuth2 specs",
+        "Building the data ingestion endpoint for a near real-time reporting system",
+        "Help migrate our old deployment system (Chefs + EC2) to Kubernetes",
+        "Lots of internal tools supporting our Developers, PMs and Customer Services team"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ho Chi Minh University of Science",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2011-09-01",
+      "endDate": "2015-07-01",
+      "gpa": "8.0 / 10"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "HTML/CSS/Javascript",
+        "Boostrap",
+        "Babel",
+        "React/Redux",
+        "Webpack"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "Golang",
+        "MongoDB",
+        "Postgres",
+        "Redis"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "Master",
+      "keywords": [
+        "AWS",
+        "Linux",
+        "NGINX",
+        "CloudFlare",
+        "Shell",
+        "Docker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Vietnamese",
+      "level": "Native speaker"
+    },
+    {
+      "name": "English",
+      "level": "Proficient"
+    }
+  ]
+}
