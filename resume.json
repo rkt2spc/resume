@@ -32,10 +32,22 @@
   },
   "work": [
     {
+      "company": "Mingle",
+      "position": "Software Engineer, Full Stack Development",
+      "website": "https://mingle.com",
+      "startDate": "2018-02-01",
+      "summary": "Mingle is a San Francisco based company with a 20 years history in building software applications. It's current primary focus is connecting people through various in-house platforms.",
+      "highlights": [
+        "Upgrade and rewrite outdated services",
+        "Implement a profanity filter for the chat service"
+      ]
+    },
+    {
       "company": "Misfit Wearables",
       "position": "Software Engineer 2, Backend Development",
       "website": "https://misfit.com",
-      "startDate": "2017-09-01",
+      "startDate": "2017-03-09",
+      "endDate": "2018-02-01",
       "summary": "Misfit is a fast growing startup focused on wearable technologies, currently acquired by Fossil Group",
       "highlights": [
         "Building high availability, scalable core APIs architectured as microservices",
