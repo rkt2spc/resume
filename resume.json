@@ -39,7 +39,7 @@
       "summary": "Mingle is a San Francisco based company with a 20 years history in building software applications. It's current primary focus is connecting people through various in-house platforms.",
       "highlights": [
         "Upgrade and rewrite outdated services",
-        "Implement a profanity filter for the chat service"
+        "Implement a profanity filter for the real-time messaging service"
       ]
     },
     {
@@ -50,12 +50,12 @@
       "endDate": "2018-02-01",
       "summary": "Misfit is a fast growing startup focused on wearable technologies, currently acquired by Fossil Group",
       "highlights": [
-        "Building high availability, scalable core APIs architectured as microservices",
+        "Build high availability, scalable core APIs architectured as microservices",
         "Help re-design and re-build new authentication/authorization system",
         "Upgrade and rewrite Open APIs for third-party developers complied with the OAuth2 specs",
-        "Building the data ingestion endpoint for a near real-time reporting system",
+        "Build the data ingestion endpoint for a near real-time reporting system",
         "Help migrate our old deployment system (Chefs + EC2) to Kubernetes",
-        "Lots of internal tools supporting our Developers, PMs and Customer Services team"
+        "Develop lots of internal tools supporting our Developers, PMs and Customer Services team"
       ]
     }
   ],
