@@ -11,16 +11,17 @@
     "node": ">= 4.0.0"
   },
   "scripts": {
+    "lint": "eslint --cache --ignore-path .gitignore '**/*.js'",
     "start": "resume serve --theme rocketspacer --port ${PORT:-4000}",
     "build": "resume export --theme rocketspacer public/index.html"
   },
   "dependencies": {
-    "jsonresume-theme-rocketspacer": "^1.0.7",
+    "jsonresume-theme-rocketspacer": "^1.0.8",
     "resume-cli": "^0.4.19"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.9.0"
+    "eslint-plugin-import": "^2.11.0"
   }
 }
