@@ -16,12 +16,12 @@
     "build": "resume export --theme rocketspacer public/index.html"
   },
   "dependencies": {
-    "jsonresume-theme-rocketspacer": "^1.0.11",
+    "jsonresume-theme-rocketspacer": "^1.1.0",
     "resume-cli": "^1.1.2"
   },
   "devDependencies": {
-    "eslint": "^5.10.0",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "eslint-plugin-import": "^2.17.2"
   }
 }

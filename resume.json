@@ -58,10 +58,19 @@
       "gpa": "8.0 / 10"
     }
   ],
+  "certifications": [
+    {
+      "name": "Solution Architect - Associate",
+      "issuingOrganization": "Amazon Web Services (AWS)",
+      "issueDate": "2019-10-01",
+      "expirationDate": "2022-03-01",
+      "credentialID": "7N4WR6J1J1RQ1LWZ",
+      "credentialURL": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-03-29&ci=AWS00804096"
+    }
+  ],
   "skills": [
     {
       "name": "Frontend Development",
-      "level": "Master",
       "keywords": [
         "HTML/CSS/Javascript",
         "Boostrap",
@@ -72,7 +81,6 @@
     },
     {
       "name": "Backend Development",
-      "level": "Master",
       "keywords": [
         "NodeJS",
         "Golang",
@@ -83,7 +91,6 @@
     },
     {
       "name": "System Administration",
-      "level": "Master",
       "keywords": [
         "AWS",
         "Linux",
