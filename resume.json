@@ -32,8 +32,21 @@
   },
   "work": [
     {
+      "company": "Grab",
+      "position": "Software Engineer, Backend Development",
+      "website": "https://grab.com",
+      "startDate": "2018-05-14",
+      "summary": "Grab is a technology company offering ride-hailing transport services, food delivery and payment solutions",
+      "highlights": [
+        "Migrate a legacy system to using our new authentication service",
+        "Build a partner gateway to handle external traffic",
+        "Build an automation pipeline on GitLab to support rolling out service configurations on the partner gateway",
+        "Handle infrastructure with Terraform"
+      ]
+    },
+    {
       "company": "Misfit Wearables",
-      "position": "Software Engineer 2, Backend Development",
+      "position": "Software Engineer, Backend Development",
       "website": "https://misfit.com",
       "startDate": "2017-03-09",
       "endDate": "2018-02-01",
