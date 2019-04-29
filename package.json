@@ -13,7 +13,7 @@
   "scripts": {
     "lint": "eslint --cache --ignore-path .gitignore '**/*.js'",
     "start": "resume serve --theme rocketspacer --port ${PORT:-4000}",
-    "build": "resume export --theme rocketspacer public/index.html"
+    "build": "resume export --force --theme rocketspacer public/index.html"
   },
   "dependencies": {
     "jsonresume-theme-rocketspacer": "^1.1.0",
