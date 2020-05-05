@@ -4,7 +4,7 @@
     "label": "Software Engineer, Backend Development",
     "picture": "profile.jpg",
     "email": "me@nmtuan.space",
-    "phone": "(+84) 093 401 83 29",
+    "phone": "(+65) 8817 8649",
     "website": "https://nmtuan.space",
     "summary": "I'm a software engineer working mainly in the backend side of the spectrum. I enjoy learning and sharing new technologies. My current focus is on NodeJs and Golang development. I spend a lot of my free time contributing to the open source community. Checkout my GitHub and StackOverflow.",
     "profiles": [
@@ -24,24 +24,34 @@
         "url": "https://www.linkedin.com/in/mntuan"
       },
       {
-        "network": "Facebook",
-        "username": "Tuan Nguyen",
-        "url": "https://www.facebook.com/rocketspacer"
+        "network": "Telegram",
+        "username": "rocketspacer",
+        "url": "https://t.me/rocketspacer"
       }
     ]
   },
   "work": [
     {
       "company": "Grab",
-      "position": "Software Engineer, Backend Development",
+      "position": "Senior Software Engineer, Backend Development",
       "website": "https://grab.com",
       "startDate": "2018-05-14",
       "summary": "Grab is a technology company offering ride-hailing transport services, food delivery and payment solutions",
       "highlights": [
-        "Migrate a legacy system to using our new authentication service",
-        "Build a partner gateway to handle external traffic",
-        "Build an automation pipeline on GitLab to support rolling out service configurations on the partner gateway",
-        "Handle infrastructure with Terraform"
+        "Rollout a token-based authentication scheme to replace a legacy session ID based one.",
+        "Build an authentication gateway (supporting OAuth2, HMAC, ...) to handle partner traffic",
+        "Build an automation pipeline on GitLab to support rolling out service configurations on our partner gateway",
+        "Operate our TCP gateway for drivers (500k+ QPS), our HTTP gateway (100k+ QPS) for passengers",
+        "Rollout new TLS certificates and new TLS versions on our gateways",
+        "Upgrade our critical Redis message brokers (500k+ QPS) with 0 downtime",
+        "Optimize our drivers TCP gateway that helps reduced cloud cost by 60%",
+        "Build specialized deployment & log shipping pipelines for some of our projects using Ansible",
+        "Handle our infrastructure with Terraform",
+        "Setup and operate several Kubernetes clusters on AWS EKS, including manifests & secrets management while enforcing GitOps practices",
+        "Setup autoscaling (HPA + Cluster autoscaler) & monitoring (DataDog agent DaemonSet) on our Kubernetes cluster",
+        "Setup Istio on our Kubernetes clusters as a service mesh controller",
+        "Configure our monitoring dashboards and alerts on DataDog",
+        "Join our on-call rotation, occasionally help mitigate production issues and write postmortem reports"
       ]
     },
     {
@@ -57,7 +67,7 @@
         "Upgrade and rewrite Open APIs for third-party developers complied with the OAuth2 specs",
         "Build the data ingestion endpoint for a near real-time reporting system",
         "Help migrate our old deployment system (Chefs + EC2) to Kubernetes",
-        "Develop lots of internal tools supporting our Developers, PMs and Customer Services team"
+        "Develop lots of internal tools supporting our Developers, PMs and Customer Service team"
       ]
     }
   ],
@@ -107,10 +117,15 @@
       "keywords": [
         "AWS",
         "Linux",
+        "Networking",
         "NGINX",
         "CloudFlare",
-        "Shell",
-        "Docker"
+        "Bash",
+        "Python",
+        "Terraform",
+        "Ansible",
+        "Docker",
+        "Kubernetes"
       ]
     }
   ],
