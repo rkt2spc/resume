@@ -88,7 +88,15 @@
       "issueDate": "2019-10-01",
       "expirationDate": "2022-03-01",
       "credentialID": "7N4WR6J1J1RQ1LWZ",
-      "credentialURL": "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-03-29&ci=AWS00804096"
+      "credentialURL": "https://www.youracclaim.com/badges/79810e21-88c4-4e87-8c94-d0e092099c98"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuingOrganization": "Cloud Native Computing Foundation (CNCF)",
+      "issueDate": "2020-08-12",
+      "expirationDate": "2023-08-12",
+      "credentialID": "LF-8kwsa9kot3",
+      "credentialURL": "https://www.youracclaim.com/badges/f9ba6e7c-d8bd-4f34-b06d-af718fb8087b"
     }
   ],
   "skills": [
